@@ -2,10 +2,10 @@ name: Canvas daily check
 
 on:
   schedule:
-    # 8:00 AM Peru time (GMT-5) → 13:00 UTC
-    - cron: '0 13 * * *'
-    # 8:00 PM Peru time → 01:00 UTC (next day)
-    - cron: '0 1 * * *'
+    # 10:00 AM Peru time (GMT-5) → 15:00 UTC
+    - cron: '0 15 * * *'
+    # 10:00 PM Peru time → 03:00 UTC (next day)
+    - cron: '0 3 * * *'
   workflow_dispatch:   # manual trigger for testing
 
 jobs:
