@@ -1,0 +1,9 @@
+﻿tabla,registros,columnas,peso_kb,kb_por_registro
+ventas_limpia,1010,14,315.9,0.313
+pagos,1000,7,246.9,0.247
+clientes_limpio,200,13,135.5,0.678
+detalle_operacion,2463,6,115.6,0.047
+incidencias,160,7,49.6,0.31
+empleados,40,10,18.7,0.468
+productos_servicios,30,6,6.5,0.218
+sedes,6,5,1.8,0.292

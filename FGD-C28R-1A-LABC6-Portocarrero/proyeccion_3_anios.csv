@@ -1,0 +1,4 @@
+﻿fuente,registros_3_anios,MB_en_3_anios,tipo
+Operaciones (tablas),10100,3.1,Estructurado
+Escaneos HD de DNI y Pasaportes de huéspedes (Check-in MINCETUR),10100,11835.9,NO estructurado
+"Lecturas IoT de habitaciones (Climatización HVAC, cerraduras y energía)",3153600,308.0,Semiestructurado / streaming
